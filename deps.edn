@@ -1,0 +1,2 @@
+{:deps {io.opentelemetry.proto/opentelemetry-proto {:mvn/version "RELEASE"}
+        com.appsflyer/pronto {:mvn/version "2.1.0"}}}
